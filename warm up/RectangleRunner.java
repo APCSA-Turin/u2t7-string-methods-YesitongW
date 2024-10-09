@@ -9,7 +9,7 @@ public class RectangleRunner {
 
        if(str1.length() > str2.length()){
         System.out.println(str1+" is longer");
-       }
+       } sd
        else if (str1.length() < str2.length()){
         System.out.println(str2+" is longer");
        }
